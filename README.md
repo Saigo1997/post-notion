@@ -13,3 +13,9 @@ $ flutter clean
 $ flutter build ios
 $ flutter install
 ```
+## 実機インストール(android)
+```
+$ flutter clean
+$ flutter build apk
+$ flutter install
+```
